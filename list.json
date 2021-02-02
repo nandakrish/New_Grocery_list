@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            
+            "Name":"Beetroot",
+            "Quantity":"3",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"nil"
+        },
+        {
+            
+            "Name":"Cucumber",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Organic"
+        },
+        {
+            
+            "Name":"Coconut",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Food",
+            "Notes":"nil"
+        },
+        {
+            
+            "Name":"Lady Finger",
+            "Quantity":"2.5",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Organic"
+        },
+        {
+            
+            "Name":"Chart Paper",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"White Colour"
+        },
+        {
+            
+            "Name":"Pen",
+            "Quantity":"3",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"Lexi"
+        },
+        {
+            
+            "Name":"Eracer",
+            "Quantity":"2",
+            "Unit":"Packet",
+            "Department":"Stationary",
+            "Notes":"Double coloured"
+        },
+        {
+            
+            "Name":"Hand Sanitiser",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Pocket Friendly"
+        },
+        {
+            
+            "Name":"Soap",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Pears"
+        },
+        {
+            
+            "Name":"Phenol",
+            "Quantity":"2",
+            "Unit":"li",
+            "Department":"Health",
+            "Notes":"Black Colour"
+        }
+    ]
+}
